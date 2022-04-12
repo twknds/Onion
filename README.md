@@ -5,6 +5,8 @@
 2022.4.12
 2.3 문자열 계산기 구현
 
+# 최초 구현 코드
+
 ## Main 코드
 ```java
 import java.lang.String;
@@ -80,3 +82,6 @@ class onion231Test {
     }
 }
 ```
+
+# 리팩토링 코드
+
